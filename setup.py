@@ -7,7 +7,7 @@ with open("requirements.txt", "r") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="fakerpy",
+    name="fakerator",
     version="0.0.1",
     author="Evandro Systems",
     description="A simple faker library for python",
